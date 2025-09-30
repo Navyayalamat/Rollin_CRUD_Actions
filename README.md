@@ -41,11 +41,11 @@ A full-stack Task Management Application, modernized from Node.js 10 to Node.js 
 
 **🛠️ Tech Stack:**
 
-- Frontend: React, Context API, Bootstrap
+- **_Frontend:_** React, Context API, Bootstrap
 
-- Backend: Node.js, Express
+- **_Backend:_** Node.js, Express
 
-- Testing: Jest + React Testing Library (frontend), Mocha/Chai (backend)
+- **_Testing:_** Jest + React Testing Library (frontend), Mocha/Chai (backend)
 
 
 **🚀 Getting Started:**
@@ -65,6 +65,6 @@ A full-stack Task Management Application, modernized from Node.js 10 to Node.js 
 
 **Unit Testing:**
 
--  Run tests:
+-  **_Run tests:_**
   
     npm test
