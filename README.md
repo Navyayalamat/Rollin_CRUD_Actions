@@ -1,6 +1,6 @@
 **📌 Node.js Task Manager**
 
-A full-stack Task Management Application demonstrating CRUD actions, form validations, and engineering best practices such as maintainable code structure, pragmatic design choices, error handling, and unit testing.
+A full-stack Task Management Application, modernized from Node.js 10 to Node.js 24, designed for maintainability, scalability, and future enhancements. It demonstrates CRUD operations, form validations, and engineering best practices including error handling and unit testing.
 
 **✨ Features:**
 
