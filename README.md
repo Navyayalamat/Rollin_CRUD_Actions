@@ -50,30 +50,21 @@ A full-stack Task Management Application demonstrating CRUD actions, form valida
 
 **🚀 Getting Started:**
 
-- Clone the repo
+- **_Clone the repo_**
 
     git clone https://github.com/Navyayalamat/Rollin_CRUD_Actions.git
     cd Rollin_CRUD_Actions
   
--  Install dependencies
+-  **_Install dependencies_**
 
     npm install
   
- - Run the project
+ - **_Run the project_**
   
     npm run dev
 
 **Unit Testing:**
-Run tests:
 
-Backend (Node.js)
-
-Test CRUD APIs.
-
-Validate error handling (e.g., invalid input, duplicate task title).
-
-Ensure proper status codes (200, 400, 404, 500).
-
-Run tests:
-
-npm test
+-  Run tests:
+  
+    npm test
